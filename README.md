@@ -4,11 +4,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Computer Science Student  
-- 🤖 Building AI-powered real-time systems  
-- 📱 Android Developer (Kotlin + Firebase)  
-- 🌍 Passionate about solving real-world problems using AI  
-- 🔥 Creator of **WildGuard – Smart Wildlife Alert System**
+I am a passionate Computer Science Engineering student with a strong interest in Artificial Intelligence, Computer Vision, and Android development. I enjoy building real-world, impact-driven applications that combine intelligent systems with user-friendly interfaces. My key project, WildGuard, is a real-time wildlife detection and alert system built using YOLOv8, Firebase, and Android, designed to improve safety through AI-powered monitoring.
+
+I am continuously learning and exploring advanced technologies, with hands-on experience in Python, Kotlin, Firebase, and deep learning frameworks. I am highly motivated, adaptable, and eager to contribute to innovative teams where I can apply my technical skills to solve meaningful problems.
 
 ---
 
