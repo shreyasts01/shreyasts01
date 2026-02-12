@@ -43,17 +43,17 @@
 
 ## 🚀 Featured Projects
 
-### 🐾 WildGuard – AI Wildlife Detection System
+### 🐾 WildGuard – AI Wildlife Detection System for Roads
 > Real-time animal detection and smart alert system using YOLOv8 + Firebase + Android.
 
 🔗 GitHub: https://github.com/shreyasts01/WildGuard-Project  
 
 ---
 
-### 📚 Skill Lab – Android Learning App
+### 📚 DigiTip – Digital Tip Payment app to workers
 > Kotlin-based Android app for skill-based learning modules.
 
-🔗 GitHub: https://github.com/shreyasts01/skill-lab-project  
+🔗 GitHub: https://github.com/shreyasts01/digitip 
 
 ---
 
@@ -71,9 +71,9 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 📸 Instagram: https://instagram.com/YOUR-ID
-- 📧 Email: yourmail@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/shreyas-t-s-a686b1281
+- 📸 Instagram: https://instagram.com/__shreyas_nair__
+- 📧 Email: tsshreyas4@gmail.com
 
 ---
 
